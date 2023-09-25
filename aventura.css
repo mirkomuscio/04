@@ -1,0 +1,109 @@
+body {
+    background-image: url(assets/img/estrellas.jpg);
+    color: #FFC005
+
+}
+picture{
+    display: flex;
+    justify-content: center;
+}
+p {
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Staatliches', cursive;
+}
+.boton {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    border: 2px solid #FFC005;
+    padding: 5px; /* margen interior */
+    border-radius: 5px;
+    display: inline-block;
+    color: #FFC005;
+    font-family: 'Staatliches', cursive;
+}
+#peliculas li {
+    display: inline-block; /* la lista la coloca horizontalmente */
+    padding: 10px;
+    text-align: center;
+    color: #FFC005
+
+}
+#peliculas{
+    text-align: center;
+    list-style: none;
+}
+#SWI{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+  
+}
+#SWII{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+   
+}
+#SWIII{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#SWIV{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#SWV{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#SWVI{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#SWVII{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#SWVIII{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#SWIX{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#RO{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+#HS{
+    text-align: center;
+    color: #FFC005;
+    font-size: 1em;
+    font-family: 'Staatliches', cursive;
+}
+.Salir{
+    text-decoration: none;
+    color: #FFC005;
+    font-weight: 900;
+    text-transform: uppercase;
+    
+}
